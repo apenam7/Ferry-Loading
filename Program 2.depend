@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553263299 source:c:\users\apena\onedrive\hp laptop\spring 2019\comp.1020 computing ii\programs\program 2\program 2\ferry.c
+	<stdio.h>
+	<stdlib.h>
+	"ferry.h"
+
+1553234644 c:\users\apena\onedrive\hp laptop\spring 2019\comp.1020 computing ii\programs\program 2\program 2\ferry.h
+	"status.h"
+
+1553270652 c:\users\apena\onedrive\hp laptop\spring 2019\comp.1020 computing ii\programs\program 2\program 2\status.h
+
+1553276380 source:c:\users\apena\onedrive\hp laptop\spring 2019\comp.1020 computing ii\programs\program 2\program 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ferry.h"
+
